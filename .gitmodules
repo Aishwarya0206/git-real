@@ -1,0 +1,3 @@
+[submodule "Aquarium/Aquarium"]
+	path = Aquarium/Aquarium
+	url = https://github.com/Fahein/Aquarium.git
